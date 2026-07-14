@@ -1,4 +1,4 @@
-<h1 align="center">🧪 Tester Helper - SA:MP</h1>
+<h1 align="center">🧪 Tester Helper v1.0 - SA:MP</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-All%20Rights%20Reserved-red?style=for-the-badge" />
